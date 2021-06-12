@@ -54,7 +54,7 @@ msgstr "по умолчанию"
 
 #: youtube_dl_gui/mainframe.py:97
 msgid "Enter URLs below"
-msgstr "Введите URL-адреса ниже"
+msgstr "請在下方輸入URL"
 
 #: youtube_dl_gui/mainframe.py:98
 msgid "Update"
@@ -74,7 +74,7 @@ msgstr "Информация"
 
 #: youtube_dl_gui/mainframe.py:102
 msgid "Welcome"
-msgstr "Добро пожаловать"
+msgstr "歡迎!"
 
 #: youtube_dl_gui/mainframe.py:103
 msgid "Warning"
@@ -82,11 +82,11 @@ msgstr "Внимание"
 
 #: youtube_dl_gui/mainframe.py:105
 msgid "Add"
-msgstr "Добавить"
+msgstr "添加"
 
 #: youtube_dl_gui/mainframe.py:106
 msgid "Download list"
-msgstr "Список для скачивания"
+msgstr "下載列表"
 
 #: youtube_dl_gui/mainframe.py:107 youtube_dl_gui/mainframe.py:516
 #: youtube_dl_gui/mainframe.py:534
@@ -197,11 +197,11 @@ msgstr "Расширение"
 
 #: youtube_dl_gui/mainframe.py:142
 msgid "Size"
-msgstr "Размер"
+msgstr "尺寸"
 
 #: youtube_dl_gui/mainframe.py:143
 msgid "Percent"
-msgstr "Процент"
+msgstr "進度"
 
 #: youtube_dl_gui/mainframe.py:144
 msgid "ETA"
@@ -209,15 +209,15 @@ msgstr "Осталось"
 
 #: youtube_dl_gui/mainframe.py:145
 msgid "Speed"
-msgstr "Скорость скачивания"
+msgstr "速率"
 
 #: youtube_dl_gui/mainframe.py:146
 msgid "Status"
-msgstr "Статус"
+msgstr "狀態"
 
 #: youtube_dl_gui/mainframe.py:235
 msgid "Get URL"
-msgstr "Скопировать URL-адрес"
+msgstr "獲取URL"
 
 #: youtube_dl_gui/mainframe.py:236
 msgid "Get command"
